@@ -1,0 +1,8 @@
+{
+  "name": "AWS Networking AI Interviewer",
+  "description": "A professional AI-powered interview platform specialized in AWS Networking. Features real-time voice and video interaction, user registration, and automated result reporting via Telegram.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
